@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div class="container">
+        <h1>Welcome to My Portfolio</h1>
+        <img src="myphoto.jpg" alt="My photo" style="width: 200px; border-radius: 50%">
+        <p>Hello! I'm a passionate developer. Explore my work and feel free to reach out.</p>
+    </div>
+</body>
+</html>
