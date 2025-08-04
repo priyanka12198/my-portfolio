@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div class="container">
+        <h1>Contact Me</h1>
+        <form>
+            <input type="text" placeholder="Priyanka Rokaya" required>
+            <input type="email" placeholder="priyankarokaya207@gmail.com" required>
+            <textarea rows="5" placeholder="i am eager to work and this is my porfolio"></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+</body>
+</html>
